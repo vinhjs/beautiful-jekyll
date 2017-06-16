@@ -7,6 +7,8 @@ published: true
 
 My name is Vinh.
 
-Contact me:
+Contact with me:
+
 mail: vinhjs@gmail.com
+
 skype: vinh2289
