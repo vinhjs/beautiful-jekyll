@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
-published: true
+title: About ChatbotVN
+subtitle: **********
+published: false
 ---
 
 My name is Vinh.
