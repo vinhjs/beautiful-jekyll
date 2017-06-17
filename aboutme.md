@@ -5,10 +5,8 @@ subtitle: **********
 published: false
 ---
 
-My name is Vinh.
-
-Contact with me:
+Contact with us:
 
 mail: vinhjs@gmail.com
 
-skype: vinh2289
+phone: +84 905 997 022
